@@ -1,0 +1,14 @@
+Um processo de sistema operacional é considerado um programa de execução, que é um conjunto de ações necessárias para a concorrência que se tem em alguns programas
+de sistema operacional, isso é entendido como um ambiente em que o programa é executado
+
+Um processo de computação tem diversas caracteristicas entre elas o Contexto de hardware, Contexto de Software, Identificação, Quotas(limite de alocação),
+Espaço de Endereçamento, Bloco de Controle de Processo e etc.
+
+Um sistema multiprocessador é normalmente constitudo por ter uma velocidade maior ao executar os processos simultâneos de uma forma que é muito mais rápida que na de um processador comum
+
+Para manipular os processos com o gerenciador de tarefas, é necessário abrir o gerenciador de tarefas, clicar no aplicativo que deseja priorizar, escolher a opção detalhes, isso mostrará outra aba de detalhes e deve clicar em alterar prioridade e escolher alta e confirmar, assim ficando mais rapido e mais focado no aplicativo/tarefa que você selecionou para o funcionamento mais rapido, ver detalhes e além de finalizar o aplicativo com o botão direito e selecionando a opção ou utilizando o botão inferior esquerda na tela
+
+Os processos da computação são dividios em duas etapas, 1- programa dos sistema são responsaveis por manipular a operação dos computadores e o 2-Programas Aplicativos é o processo que resolve os problemas para o usuário
+
+Os estados de um processo é um processo de muda de 'estados', New é o processo de criar, o Running é do que da instruções do processo estão executando,
+o Waiting é o processo que começa a estar esperando a ocorrência de algum evento e o Terminated que é o processo que terminou a execução
